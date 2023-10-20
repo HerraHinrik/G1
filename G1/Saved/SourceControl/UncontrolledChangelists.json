@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Player/Input/IA_Move.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Player/Input/IMC_Player.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Player/BP_Player.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Player/GM_Base.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Ennemy/BP_testFoe.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/Maps/Testmap.umap",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Ennemy/NewBlueprint.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Bullet/Projectile.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Ennemy/NewInterface.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Ennemy/BPI_CanBeDamaged.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Ennemy/BPI_Enne.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Ennemy/BPI_Enemy.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Player/BPI_removeIndex.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Ennemy/BP_baseEnemy.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Ennemy/BP_Spawner.uasset",
+				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/Epic/G1/Content/BP/Player/Input/IMC_Playercharacter.uasset"
+			]
+		}
+	]
+}
