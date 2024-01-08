@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/herra/OneDrive/Documents/GitHub/G1/G1/Content/Maps/Testmap.umap",
+				"C:/Users/herra/OneDrive/Documents/GitHub/G1/G1/Content/BP/Player/BP_Player.uasset",
+				"C:/Users/herra/OneDrive/Documents/GitHub/G1/G1/Content/BP/EXP/BP_Exp.uasset",
+				"C:/Users/herra/OneDrive/Documents/GitHub/G1/G1/Content/BP/Ennemy/BP_baseEnemy.uasset",
 				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/G1/G1/Content/Material/M_test.uasset",
 				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/G1/G1/Content/BP/Ennemy/BP_baseEnemy.uasset",
 				"C:/Users/hinrik.gylfason/OneDrive - Change Maker Education/Documents/G1/G1/Content/BP/Player/BP_Player.uasset",
